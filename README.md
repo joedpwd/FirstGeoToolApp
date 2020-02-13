@@ -7,6 +7,8 @@ of the countries of the world with attributes such as the country name and the s
 manipulate the map using generic utilies provided by the GeoTools library. This includes moving the map, zooming in and out and
 removing and inserting the two layers.
 
+![Image of Application](https://github.com/joedpwd/FirstGeoToolApp/blob/master/First_GeoTool_App.png);
+
 ## Prerequisites
 
 Maven
