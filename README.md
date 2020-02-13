@@ -7,12 +7,12 @@ of the countries of the world with attributes such as the country name and the s
 manipulate the map using generic utilies provided by the GeoTools library. This includes moving the map, zooming in and out and
 removing and inserting the two layers.
 
-##Prerequisites
+## Prerequisites
 
 Maven
 JDK 8
 
-##Usage
+## Usage
 I used the following datasets:
 
 Feature Layer: https://hub.arcgis.com/datasets/a21fdb46d23e4ef896f31475217cbb08_1
